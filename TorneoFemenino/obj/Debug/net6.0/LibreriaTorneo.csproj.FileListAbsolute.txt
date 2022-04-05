@@ -1,0 +1,12 @@
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\bin\Debug\net6.0\LibreriaTorneo.deps.json
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\bin\Debug\net6.0\LibreriaTorneo.dll
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\bin\Debug\net6.0\LibreriaTorneo.pdb
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.csproj.AssemblyReference.cache
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.AssemblyInfoInputs.cache
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.AssemblyInfo.cs
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.csproj.CoreCompileInputs.cache
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.dll
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\refint\LibreriaTorneo.dll
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\LibreriaTorneo.pdb
+E:\_Nico\_zistem\repos visual studio\TorneoFemenino\TorneoFemenino\obj\Debug\net6.0\ref\LibreriaTorneo.dll

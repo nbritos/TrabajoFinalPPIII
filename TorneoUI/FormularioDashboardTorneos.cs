@@ -10,16 +10,16 @@ using System.Windows.Forms;
 
 namespace TorneoUI
 {
-    public partial class FormularioCrearTorneo : Form
+    public partial class FormularioDashboardTorneos : Form
     {
-        public FormularioCrearTorneo()
+        public FormularioDashboardTorneos()
         {
             InitializeComponent();
             this.StartPosition = FormStartPosition.CenterParent;
             this.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void btnCerrarFormCrearTorneo_Click(object sender, EventArgs e)
         {
             this.Close();
         }

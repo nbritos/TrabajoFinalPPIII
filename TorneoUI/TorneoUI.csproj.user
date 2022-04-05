@@ -1,13 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
+    <Compile Update="FormularioCrearEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormularioCrearTorneo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FormularioDashboardTorneos.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="FormularioLogIn.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormularioVistaTorneo.cs">
+    <Compile Update="FormularioGestor.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
